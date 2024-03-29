@@ -10,9 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cloud_firestore: ^4.15.4
+  cloud_firestore: ^4.15.10
   rxdart: ^0.27.7
-  flutter_lints: ^3.0.1
+  flutter_lints: ^3.0.2
 
 dev_dependencies:
   flutter_test:
